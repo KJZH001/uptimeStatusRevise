@@ -2,6 +2,8 @@
 
 一个二次开发的Uptime监控美化模板
 
+介绍 [请点击此处](https://blog.moeworld.tech/2020/08/27/uptimestatusrevise-%e4%b8%80%e4%b8%aa%e4%ba%8c%e6%ac%a1%e5%bc%80%e5%8f%91%e7%9a%84%e7%9b%91%e6%8e%a7%e7%be%8e%e5%8c%96%e9%9d%a2%e6%9d%bf/)
+
 ## 如何使用
 
 1. 克隆本仓库
@@ -25,3 +27,9 @@
 ## 开源协议
 
 遵循原项目的开源协议，采用MIT协议进行开源
+
+## 鸣谢
+
+原项目作者 yb
+
+仓库地址 https://github.com/yb/uptime-status

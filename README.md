@@ -2,8 +2,6 @@
 
 一个二次开发的Uptime监控美化模板
 
-支持GitHub Pages
-
 介绍 [请点击此处](https://blog.moeworld.tech/2020/08/27/uptimestatusrevise-%e4%b8%80%e4%b8%aa%e4%ba%8c%e6%ac%a1%e5%bc%80%e5%8f%91%e7%9a%84%e7%9b%91%e6%8e%a7%e7%be%8e%e5%8c%96%e9%9d%a2%e6%9d%bf/)
 
 ## 如何使用
@@ -35,3 +33,5 @@
 原项目作者 yb
 
 仓库地址 https://github.com/yb/uptime-status
+
+默认的背景来图片自网络，如果存在可能的侵权行为请发送issue，我会尽快进行删除

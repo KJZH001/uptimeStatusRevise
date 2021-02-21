@@ -9572,7 +9572,7 @@ function(e, t, n) {
                     },
                     e.next = 11,
                     /*de.a.post("https://api.uptimerobot.com/v2/getMonitors", s, {*/
-                    de.a.post("http://uptime.moeworld.tech", s, {
+                    de.a.post("https://uptime.moeworld.tech", s, {
                         timeout: 1e4
                     }).then((function(e) {
                         return "ok" === e.data.stat ? Promise.resolve(e.data.monitors) : Promise.reject(e.data.error)

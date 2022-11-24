@@ -29,7 +29,7 @@ window.Config = {
     },
     {
       text: '关于',
-      url: 'http://about.rcraft.ml'
+      url: 'https://about.moeworld.top/'
     }
   ]
 };

@@ -1,3 +1,4 @@
+![https://img.cdn.18g.me/2024/11/673711504eed3.jpg](https://img.cdn.18g.me/2024/11/673711504eed3.jpg)
 # uptimeStatusRevise
 
 一个二次开发的Uptime监控美化模板
